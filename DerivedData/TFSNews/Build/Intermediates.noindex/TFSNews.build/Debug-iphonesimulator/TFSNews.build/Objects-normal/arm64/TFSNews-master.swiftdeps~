@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "1b43413dd70cd4392a3a23c9b269676282238bbe85b0cd4b30f7f00240c1988a"
+build_start_time: [1675501512, 542559146]
+build_end_time: [1675501512, 629238128]
+inputs:
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/API/ApiManager.swift": !private [1675501510, 563177824]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/AppDelegate.swift": !private [1675500436, 923731327]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/SceneDelegate.swift": !private [1675500436, 926668643]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/ViewController.swift": !private [1675500436, 927571058]

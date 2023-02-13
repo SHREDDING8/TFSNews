@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "cd4510660cdab3343b9d78bd31bc5c954fdca283006252fb3e91f4a7f34a18ff"
+build_start_time: [1675629595, 89962959]
+build_end_time: [1675629597, 577872037]
+inputs:
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/AppDelegate.swift": [1675613195, 328400373]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/Controller/NewsPageViewController.swift": [1675628938, 338018655]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/Controller/ViewController.swift": [1675629541, 179743051]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/Controller/WebPresentationViewController.swift": [1675617586, 76816082]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/Model/API/ApiManager.swift": [1675628048, 612517833]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/Model/API/NewsStructure.swift": [1675620462, 10740041]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/Model/StringExtension.swift": [1675625977, 127401828]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/SceneDelegate.swift": [1675525255, 34367084]
+  "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews/View/PreviewTableViewCell.swift": [1675610901, 133044242]

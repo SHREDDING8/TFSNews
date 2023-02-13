@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "e25c63751cae7ae6d28427ce7a5e61b0f4ec35a206e7cf217b0d26910ed365e7"
+    }
+  ],
+  "containerPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/TFSNews.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.1",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/DerivedData/TFSNews/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/DerivedData/TFSNews/Build/Products",
+      "derivedDataPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/DerivedData/TFSNews/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/DerivedData/TFSNews/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/shredding/ALL MY/Programming/Swift/intro-lab-SHREDDING8/TFSNews/DerivedData/TFSNews/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "MacFamily20,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.7",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "MacFamily20,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008103-001960481AA3001E",
+          "TARGET_DEVICE_MODEL" : "MacBookAir10,1",
+          "TARGET_DEVICE_OS_VERSION" : "12.6",
+          "TARGET_DEVICE_PLATFORM_NAME" : "macosx"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

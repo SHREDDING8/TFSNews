@@ -1,0 +1,25 @@
+/* 
+  Localize.strings
+  TFSNews
+
+  Created by SHREDDING on 05.02.2023.
+  
+*/
+"keywoardsPlaceholder" = "Ключевые слова";
+"LoadMoreButton" = "Загрузить еще";
+"NewsTitle" = "Новости";
+"VisitsLabel" = "Посещения";
+
+"EmptyRequestTitle" = "Пустой запрос";
+"EmptyRequestMsg" = "Введите ключевые слова на английском языке";
+
+"WatchCompletelyButton" = "Смотреть полностью";
+
+"DescriptionLabel" = "Описание";
+"NonePhraze" = "Отсуствует";
+"SourceLabel" = "Источник";
+"AuthorLabel" = "Автор";
+
+"ErorrWrongAlphabetStatus" = "Ошибка";
+"ErorrWrongAlphabetCode" = "Неверный алфавит";
+"ErorrWrongAlphabetMsg" = "Введите ключевые слова на английском языке";

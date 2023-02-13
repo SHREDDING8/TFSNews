@@ -1,0 +1,26 @@
+/* 
+  Localize.strings
+  TFSNews
+
+  Created by SHREDDING on 05.02.2023.
+  
+*/
+"keywoardsPlaceholder" = "Enter keywords";
+"LoadMoreButton" = "Load more";
+"NewsTitle" = "News";
+"VisitsLabel" = "Visits";
+
+"EmptyRequestTitle" = "Empty request";
+"EmptyRequestMsg" = "Please enter keywords in English";
+
+"WatchCompletelyButton" = "Watch completely";
+
+"DescriptionLabel" = "Description";
+"SourceLabel" = "Source";
+"AuthorLabel" = "Author";
+
+"NonePhraze" = "None";
+
+"ErorrWrongAlphabetStatus" = "Erorr";
+"ErorrWrongAlphabetCode" = "Wrong alphabet";
+"ErorrWrongAlphabetMsg" = "Please enter keywords in English";

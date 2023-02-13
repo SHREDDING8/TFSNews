@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+TFSNews in TFSNews, no dependencies
+TFSNews in TFSNews, no dependencies
